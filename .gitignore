@@ -1,0 +1,11 @@
+# Environment
+.env
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

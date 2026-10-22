@@ -1,0 +1,2 @@
+# Keep the sample-data dump out of GitHub language stats and diffs
+dvdrental_db/datasources/dvdrental.sql linguist-vendored -diff
